@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on https://github.com/AY2122S1-CS2103-F09-3/tp
 - 📫 How to reach me: erwin.quek@u.nus.edu
-
+- 😎 Personal Website: https://erwinquek.vercel.app/
 <!--
 **erwinqxy/erwinqxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
