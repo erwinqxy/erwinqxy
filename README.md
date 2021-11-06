@@ -29,7 +29,18 @@
 
 [website]: https://erwinquek.vercel.app
 [linkedin]: https://www.linkedin.com/in/erwin-quek-3ab0831a8/
-
+[vscode]: https://code.visualstudio.com/
+[java]: https://www.java.com/en/
+[python]: https://www.python.org/
+[javascript]: https://www.javascript.com/
+[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[figma]: https://www.figma.com/
+[reactjs]: https://reactjs.org/
+[django]: https://www.djangoproject.com/
+[mysql]: https://www.mysql.com/
+[git]: https://git-scm.com/
+[postgresql]: https://www.postgresql.org/
 
 
 <!--
