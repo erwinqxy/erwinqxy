@@ -23,7 +23,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mysql_icon_130379.png" />][mysql]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 
 [website]: https://erwinquek.vercel.app
