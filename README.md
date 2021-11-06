@@ -5,9 +5,8 @@
 - 😎 Personal Website: https://erwinquek.vercel.app/
 
 ### Connect with me: 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src=""https://i.stack.imgur.com/gVE0j.png" />][linkedin]
-
+[<img align="left" alt=" https://erwinquek.vercel.app" width="22px" src="https://cdn-icons.flaticon.com/png/512/4140/premium/4140037.png?token=exp=1636210872~hmac=bf5cda3e8fe877270ebd6453509f4f81"/>][website]
+[<img align="left" alt="erwin-quek | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
 
@@ -28,7 +27,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
-[website]: https://erwinquek.vercel.app/
+[website]: https://erwinquek.vercel.app
 [linkedin]: https://www.linkedin.com/in/erwin-quek-3ab0831a8/
 
 
