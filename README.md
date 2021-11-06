@@ -11,6 +11,7 @@
 <br />
 
 ### Tech Stack 
+[<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />][java]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -27,6 +28,7 @@
 
 [website]: https://erwinquek.vercel.app
 [linkedin]: https://www.linkedin.com/in/erwin-quek-3ab0831a8/
+[intellij]: https://www.jetbrains.com/idea/
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/en/
 [python]: https://www.python.org/
