@@ -6,7 +6,7 @@
 - 🧑‍🎓 [My Resume](https://drive.google.com/file/d/1rrWq3tQQlyFxrN-oUNoD9zuZnwci4ODb/view)
 
 ### Connect with me: 
-[<img align="left" alt="erwin-quek | Website" width="22px" src="/images/me.PNG" />][website]
+[<img align="left" alt="erwin-quek | Website" width="30px" src="/images/me.PNG" />][website]
 [<img align="left" alt="erwin-quek | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
