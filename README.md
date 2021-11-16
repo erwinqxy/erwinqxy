@@ -6,7 +6,6 @@
 - 🧑‍🎓 [My Resume](https://drive.google.com/file/d/1rrWq3tQQlyFxrN-oUNoD9zuZnwci4ODb/view)
 
 ### Connect with me: 
-[<img align="left" alt=" https://erwinquek.vercel.app" width="22px" src="https://cdn-icons.flaticon.com/png/512/4140/premium/4140037.png?token=exp=1636210872~hmac=bf5cda3e8fe877270ebd6453509f4f81"/>][website]
 [<img align="left" alt="erwin-quek | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
