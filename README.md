@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working on [CS2103 Team Project](https://github.com/AY2122S1-CS2103-F09-3/tp)
 - 📫 How to reach me: erwin.quek@u.nus.edu
-- 😎 [Personal Website](https://erwinquek.vercel.app/)
+- 😎 [Personal Website](https://erwinquek.vercel.app)
 - 🧑‍🎓 [My Resume](https://drive.google.com/file/d/1rrWq3tQQlyFxrN-oUNoD9zuZnwci4ODb/view)
 
 ### Connect with me: 
+[<img align="left" alt="erwin-quek | Website" width="22px" src="/images/me.PNG" />][website]
 [<img align="left" alt="erwin-quek | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 <br />
