@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CS2103 Team Project](https://github.com/AY2122S1-CS2103-F09-3/tp)
+- 🔭 I’m currently working on -
 - 📫 How to reach me: erwin.quek@u.nus.edu
 - 😎 [Personal Website](https://erwinquek.vercel.app)
 - 🧑‍🎓 [My Resume](https://drive.google.com/file/d/1rrWq3tQQlyFxrN-oUNoD9zuZnwci4ODb/view)
