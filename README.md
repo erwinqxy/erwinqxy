@@ -9,7 +9,6 @@
 [<img align="left" alt="erwin-quek | Website" width="30px" src="/images/me.PNG" />][website]
 [<img align="left" alt="erwin-quek | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
-<br />
 
 ### Tech Stack 
 [<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />][intellij]
