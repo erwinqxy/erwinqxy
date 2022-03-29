@@ -7,7 +7,6 @@
 
 ### Connect with me: 
 [<img align="left" alt="erwin-quek | Website" width="30px" src="/images/me.PNG" />][website]
-[<img align="left" alt="erwin-quek | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 
 ### Tech Stack 
