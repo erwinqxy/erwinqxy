@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on -
+- 🔭 I’m currently working on -  [Learning Flutter](https://github.com/erwinqxy/book-tickets)
 - 📫 How to reach me: erwin.quek@u.nus.edu
 - 😎 [Personal Website](https://erwinquek.vercel.app)
 - 🧑‍🎓 [My Resume](https://docs.google.com/document/d/1rQiFf5l_LW3wo7sDMSsfy9mGsUn1JN4a/edit?usp=sharing&ouid=111099942703627877902&rtpof=true&sd=true)
