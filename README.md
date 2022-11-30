@@ -1,3 +1,5 @@
+![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on -  [Learning Flutter](https://github.com/erwinqxy/book-tickets)
@@ -44,12 +46,6 @@
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [postgresql]: https://www.postgresql.org/
-
-
-</br>
-
-![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
-
 
 
 <!--
