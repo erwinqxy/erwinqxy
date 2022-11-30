@@ -45,6 +45,9 @@
 [git]: https://git-scm.com/
 [postgresql]: https://www.postgresql.org/
 
+![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
+
+
 
 <!--
 **erwinqxy/erwinqxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
