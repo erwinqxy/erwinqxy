@@ -1,5 +1,5 @@
-<!-- ![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
- -->
+![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on -  [Learning Flutter](https://github.com/erwinqxy/book-tickets)
