@@ -8,7 +8,7 @@
 - 🧑‍🎓 [My Resume](https://docs.google.com/document/d/1rQiFf5l_LW3wo7sDMSsfy9mGsUn1JN4a/edit?usp=sharing&ouid=111099942703627877902&rtpof=true&sd=true)
 
 
-
+<!-- 
 ### Connect with me: 
 [<img align="left" alt="erwin-quek | Website" width="30px" src="/images/me.PNG" />][website]
 
@@ -45,7 +45,7 @@
 [django]: https://www.djangoproject.com/
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
-[postgresql]: https://www.postgresql.org/
+[postgresql]: https://www.postgresql.org/ -->
 
 
 <!--
