@@ -13,6 +13,8 @@
 ### Connect with me: 
 [<img align="left" alt="erwin-quek | Website" width="30px" src="/images/me.PNG" />][website]
 
+vscode setttings: https://vscode.dev/profile/github/f3d2799bd5a5185b21b5f6d466f3cda8 
+
 <br/>
 
 
