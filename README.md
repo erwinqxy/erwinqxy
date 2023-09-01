@@ -1,5 +1,3 @@
-![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
-
 ### Hi there 👋
 
 - 📍 Ontario, Toronto 
@@ -10,6 +8,8 @@
 
 
 <!-- 
+![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
+
 ### Connect with me: 
 [<img align="left" alt="erwin-quek | Website" width="30px" src="/images/me.PNG" />][website]
 
