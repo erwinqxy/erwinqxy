@@ -6,6 +6,8 @@
 - 😎 [Personal Website](https://erwinquek.vercel.app/)
 - 🧑‍🎓 [My Resume](https://drive.google.com/file/d/190rRvuVh-3vNDKkCPWnVcqdwSWJS0cgB/view)
 
+![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
+
 
 <!-- 
 ![Erwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erwinqxy&show_icons=true&theme=radical)
