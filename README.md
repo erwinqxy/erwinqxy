@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 📍 Ontario, Toronto 
--  🔭 I’m currently interning at [Mavennet](https://www.mavennet.com/)
+- 📍 Singapore 
+-  🔭 I’m currently interning at [Mavennet](https://www.stablecorp.ca/)
 - 📫 How to reach me: erwin.quek@u.nus.edu
 - 😎 [Personal Website](https://erwinquek.vercel.app/)
-- 🧑‍🎓 [My Resume](https://drive.google.com/file/d/190rRvuVh-3vNDKkCPWnVcqdwSWJS0cgB/view)
+- 🧑‍🎓 [My Resume]([https://drive.google.com/file/d/190rRvuVh-3vNDKkCPWnVcqdwSWJS0cgB/view](https://drive.google.com/file/d/1vFKOCszM1V10yh5TIP3koQmkqGBjJl27/view?usp=sharing))
 
 
 <!-- 
